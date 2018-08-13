@@ -1,2 +1,2 @@
 # My-components
-Button components that can be used for websites
+A simple footer that can be used for web pages
